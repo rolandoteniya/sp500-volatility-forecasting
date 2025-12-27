@@ -10,7 +10,7 @@ My final **VIX-enhanced LSTM** achieved a **61.5% improvement** in forecast accu
 
 ---
 
-### **📄 [View Full Dissertation Report (PDF)](./Roland_Oteniya_MSc_Dissertation.pdf)**
+### **📄 [View Full Dissertation Report (PDF)](./Roland%20Oteniya%20MSc%20Dissertation.pdf)**
 ---
 
 ## 🛠️ Tech Stack
